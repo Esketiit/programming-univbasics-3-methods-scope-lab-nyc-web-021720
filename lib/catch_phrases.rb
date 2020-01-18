@@ -9,7 +9,8 @@ def toadstool
 end
 
 def link
-
+  levelup ="It's Dangerous To Go Alone! Take This."
+  levelup
 end
 
 def any_phrase
