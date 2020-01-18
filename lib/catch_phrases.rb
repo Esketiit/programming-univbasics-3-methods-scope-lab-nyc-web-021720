@@ -13,6 +13,6 @@ def link
   puts levelup
 end
 
-def any_phrase
-  puts "Clean your room!"
+def any_phrase (string)
+  puts string
 end
